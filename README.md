@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- yes i know pyhton, but barely
+- yes i know python, but barely
 <!---
 Bin06AndItsSeemsALittieTooLate/Bin06AndItsSeemsALittieTooLate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
